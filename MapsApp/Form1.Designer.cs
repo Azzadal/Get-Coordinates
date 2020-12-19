@@ -35,7 +35,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.saveFileDialog = new System.Windows.Forms.SaveFileDialog();
             this.button2 = new System.Windows.Forms.Button();
-            this.label4 = new System.Windows.Forms.Label();
+            this.resultConnect = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // adress
@@ -97,13 +97,13 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.save);
             // 
-            // label4
+            // resultConnect
             // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(59, 209);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(0, 13);
-            this.label4.TabIndex = 8;
+            this.resultConnect.AutoSize = true;
+            this.resultConnect.Location = new System.Drawing.Point(59, 209);
+            this.resultConnect.Name = "resultConnect";
+            this.resultConnect.Size = new System.Drawing.Size(0, 13);
+            this.resultConnect.TabIndex = 8;
             // 
             // Form1
             // 
@@ -111,7 +111,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(320, 269);
-            this.Controls.Add(this.label4);
+            this.Controls.Add(this.resultConnect);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pointValue);
@@ -136,7 +136,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.SaveFileDialog saveFileDialog;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label resultConnect;
     }
 }
 

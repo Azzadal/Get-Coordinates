@@ -27,7 +27,7 @@ namespace MapsApp
         
         private void button1_Click(object sender, EventArgs e)
         {
-            label4.Text = string.Empty;
+            resultConnect.Text = string.Empty;
             adr = adress.Text;
             if (!Int32.TryParse(pointValue.Text, out pV))
             {
@@ -36,7 +36,7 @@ namespace MapsApp
             }
 
             coordinates = pc.GetCoordinates(adr, pV);
-            label4.Text = "Done";
+            resultConnect.Text = "Done";
         }
 
         private async void save(object sender, EventArgs e)
