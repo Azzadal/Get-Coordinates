@@ -12,13 +12,13 @@ using System.Windows.Forms;
 
 namespace MapsApp
 {
-    public partial class Form1 : Form
+    public partial class MapsApp : Form
     {
         List<string> coordinates;
         string adr;
         int pV;
 
-        public Form1()
+        public MapsApp()
         {
             InitializeComponent();
             

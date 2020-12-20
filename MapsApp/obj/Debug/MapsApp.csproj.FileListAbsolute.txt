@@ -2,7 +2,6 @@ C:\Users\Andrey\source\repos\MapsApp\MapsApp\bin\Debug\MapsApp.exe.config
 C:\Users\Andrey\source\repos\MapsApp\MapsApp\bin\Debug\MapsApp.exe
 C:\Users\Andrey\source\repos\MapsApp\MapsApp\bin\Debug\MapsApp.pdb
 C:\Users\Andrey\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.csprojAssemblyReference.cache
-C:\Users\Andrey\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.Form1.resources
 C:\Users\Andrey\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.Properties.Resources.resources
 C:\Users\Andrey\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.csproj.GenerateResource.cache
 C:\Users\Andrey\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.csproj.CoreCompileInputs.cache
@@ -18,3 +17,4 @@ C:\Users\andkv\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.csproj.GenerateRes
 C:\Users\andkv\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.csproj.CoreCompileInputs.cache
 C:\Users\andkv\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.exe
 C:\Users\andkv\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.pdb
+C:\Users\Andrey\source\repos\MapsApp\MapsApp\obj\Debug\MapsApp.MapsApp.resources

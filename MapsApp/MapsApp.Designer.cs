@@ -1,6 +1,6 @@
 ﻿namespace MapsApp
 {
-    partial class Form1
+    partial class MapsApp
     {
         /// <summary>
         /// Обязательная переменная конструктора.
